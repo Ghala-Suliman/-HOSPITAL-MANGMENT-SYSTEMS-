@@ -29,6 +29,6 @@
    - JDBC (Java Database Connectivity) is used to connect the servlets to the MySQL database, allowing the application to execute SQL queries for login verification, retrieving data, and managing appointments.
   
    - System Architecture:
-   - 
+   - ![Hospital Management System](https://github.com/Ghala-Suliman/-HOSPITAL-MANGMENT-SYSTEMS-/blob/main/Hospital%20mangment%20system.png?raw=true)
 
 
